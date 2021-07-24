@@ -1,0 +1,14 @@
+
+Package: com.thatmusicweeb.ios9x
+Version: 0.3
+Section: Themes
+Maintainer: thatmusicweeb <jozmo@yahoo.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: ./debs/iOS9x.deb
+Size: 3826 
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: Windows 9x-based theme for iOS.
+Name: iOS9x
+Author: thatmusicweeb <jozmo@yahoo.com>
+Depiction: Windows 9x-based theme for iOS.
